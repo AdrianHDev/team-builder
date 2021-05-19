@@ -41,6 +41,8 @@ const NewMember = (props) => {
                     <option value="Manager">Manager</option>
                     </select>
                 </label>
+                <br/>
+                <br/>
                 <button
                 onClick={(e) => {
                     e.preventDefault()
